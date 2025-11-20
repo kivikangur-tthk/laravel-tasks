@@ -38,7 +38,8 @@
 
         </div>
     </nav>
-
+    Kristjan Oli siin!
+    
     @yield('content')
 
     <!-- JavaScripts -->
